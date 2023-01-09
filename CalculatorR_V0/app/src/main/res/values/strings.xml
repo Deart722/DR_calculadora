@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculatorR_V0</string>
+    <string name="result">Resultado</string>
+    <string name="sum">+</string>
+</resources>
